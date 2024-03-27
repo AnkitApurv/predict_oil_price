@@ -1,0 +1,4 @@
+{
+    "python.defaultInterpreterPath": "~/miniconda3/envs/env-predict_oil_price/bin/python",
+    "python.terminal.activateEnvironment": true
+}

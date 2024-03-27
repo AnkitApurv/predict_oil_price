@@ -1,0 +1,17 @@
+name: env-predict_oil_price
+channels:
+  - defaults
+  - conda-forge
+  - pyviz
+dependencies:
+  - pip
+  - pip:
+    - ipykernel
+    - polars[all]
+    - mlflow
+    - pytest-playwright
+    - openpyxl
+  - bokeh
+  - colorcet
+  - holoviews
+  - panel
