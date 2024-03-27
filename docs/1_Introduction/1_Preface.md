@@ -17,31 +17,26 @@ Furthermore, this commodity is largely bought and sold via long-term contracts b
 Oil is largely bought/sold and then transported in two ways concerning the processing of oil into usable state:
 
 - Crude Oil and Natural Gas
-  - Little to no value addition
-  - Costs involved:
-    - Extraction from wells, fracking etc
-    - Transportation via:
-      - Tanker ships
-      - Pipelines
+    - Little to no value addition
+    - Costs involved:
+        - Extraction from wells, fracking etc
+        - Transportation
 - Processed, refined oil products such as Petrol, Diesel and other oil products
-  - Significant value addition
-  - Costs involved:
-    - Extraction from wells, fracking etc
-    - Transportation via:
-      - Tanker ships
-      - Pipelines
-    - Oil refineries' value addition
+    - Significant Oil refineries' value addition
+    - Costs involved:
+        - Extraction from wells, fracking etc
+        - Transportation
 
 ### Costs and Logistics
 
 - Extraction from wells, fracking etc
 - Transportation via:
-  - Tanker ships
-    - Continuous significant costs, especially in case of:
-      - international financial turmoil (banking and insurance sector impact)
-      - piracy, war at the high seas
-  - Pipelines
-    - One time significant cost amortized over many years of trade
+    - Tanker ships
+        - Continuous significant costs, especially in case of:
+        - international financial turmoil (banking and insurance sector impact)
+        - piracy, war at the high seas
+    - Pipelines
+        - One time significant cost amortized over many years of trade
 - Oil refineries' value addition
 
 ## Conclusion on Oil trading Prices
@@ -50,7 +45,7 @@ Taking into account the [background](#background-on-oil-trading), it can be assu
 
 - International finance and geo-political situation
 - Added costs:
-  - Value addition via refining
-  - Logistical complexity and costs
-  - Transportation distances between buyer and seller
+    - Value addition via refining
+    - Logistical complexity and costs
+    - Transportation distances between buyer and seller
 - Negotiating ability of the buyer and seller vis-a-vis their counter-parties
