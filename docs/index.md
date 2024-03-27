@@ -1,9 +1,5 @@
-# Oil Price Prediction
+# Predict Oil Price
 
 ## Goal
 
 Predicting USOIL/Crude Oil Prices
-
-## Documentation
-
-Made via [mkdocs-material](https://squidfunk.github.io/mkdocs-material/)
